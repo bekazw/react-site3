@@ -1,0 +1,18 @@
+.Copyrights{
+    position: absolute;
+    width: 100%;
+    top: 1960px;
+    background-color: #2b2b2b;
+    border-top: 1px solid #3a3a3a;
+    height: 70px;
+}
+.Ctext{
+    position: absolute;
+    left: 120px;
+    top: 15px;
+    font: 13px "Georgia";
+    color: #979797;
+}
+#Ctext2{
+    left: 915px;
+}

@@ -1,0 +1,27 @@
+.LW_element{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 120px;
+    top: 50px;
+    border: 6px solid white;
+    background-color: #353535;    
+}
+.LW_element:hover{
+    border: 6px solid #76c38f;
+}
+#LW_el_text{
+    position: absolute;
+    width: 100%;
+    top: 142px;
+    height: 30px;
+    background-color: #151515;
+    font: 14px "Georgia";
+    color: white;
+    padding-top: 12px;
+}
+#LW_el1 {    left: 450px;}
+#LW_el2 { left: 775px;}
+#LW_el3 { top: 275px;}
+#LW_el4 { top: 275px; left: 450px;}
+#LW_el5 {top: 275px; left: 775px;}

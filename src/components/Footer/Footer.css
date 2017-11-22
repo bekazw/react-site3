@@ -1,0 +1,116 @@
+.Footer{
+    position: absolute;
+    width: 100%;
+    top: 1570px;
+    height: 400px;
+    background-color: #303030;
+    border-bottom: 1px solid black;
+}
+.Ftitle{
+    position: absolute;
+    left: 120px;
+    top: 25px;
+    font: 16px "Georgia";
+    color: white;
+    text-align: left;
+    width: 120px;
+}
+#Ft1 {left: 360px;}
+#Ft2 {left: 615px;}
+#Ft3 {left: 865px;}
+.f0Text {
+    position: absolute;
+    width: 200px;
+    word-break: normal;
+    font: 13px "Georgia";
+    color: #979797;
+    text-align: left;
+    left: 120px;    
+}
+#f0textTitle{
+    top: 80px;
+    color: rgb(118, 195, 143);
+    font-weight: bold;
+}
+#f0textAuthor{
+    top: 105px;
+}
+#f0textDate{
+    top: 130px;
+}
+#f0textContent{
+    top: 150px;
+}
+#f0textLink{
+    top: 200px;
+    color: #76c38f;
+}
+li{
+    list-style-type: none;
+    color: #76c38f;
+    height: 30px;
+    border-bottom: 1px solid #404040;
+    padding-top: 10px;
+    width: 200px;
+    text-align: left;
+}
+li:before{
+    content: "»"
+}
+ul {
+    position: absolute;
+    left: 320px;
+    top: 60px;
+}
+li:hover {
+    color: green;
+}
+.tweets{
+    position: absolute; 
+    left: 615px;
+    top: 60px;
+    font: 13px "Georgia";
+    width: 200px;
+    text-align: left;
+    word-break: normal;
+    color: #979797;
+}
+#tweet1{
+    top: 150px;
+}
+.f3Contact{
+    width: 225px;
+    background-color: #222222;
+    height:25px;
+    border-radius: 10px;
+    text-align: left;
+    padding-top: 3px;
+    font: 13px "Georgia";
+    color: #989898;
+    position: absolute;
+    left: 865px;
+    top: 65px;
+    border: none;
+}
+#f3Mail{
+    top: 105px;
+}
+#f3Subject{
+    top: 150px;
+}
+#f3Message{
+    top: 200px;
+    resize: none;
+    height: 80px;
+}
+#f3Submit{
+    position: absolute;
+    width: 75px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #76c38f;
+    color: #303030;
+    left: 865px;
+    top: 290px;
+    padding-top: 10px;
+}

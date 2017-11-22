@@ -1,0 +1,27 @@
+.HeaderSlider{
+    position: absolute;
+    width: 950px;
+    height: 440px;
+    left: 50%;
+    margin-left: -475px;    
+    top: 120px;
+    overflow: hidden;
+}
+.HSarrow {
+    position: absolute;
+    width: 15px;
+    height: 30px;
+    background-image: url("../../img/arr.png");
+    left: 0px;
+    top: 50%;
+    margin-top: -15px;
+    background-repeat: no-repeat;
+    background-size: 15px 30px;
+}
+#HSarrow1 {
+    left: 935px;
+    transform: scaleX(-1);
+}
+.HSarrow:hover{
+    background-size: 17px 32px;
+}

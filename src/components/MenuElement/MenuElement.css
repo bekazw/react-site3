@@ -1,0 +1,20 @@
+.el{
+    position: absolute;
+    top: 35px;
+    left: 450px;
+    width: 95px;
+    height: 25px;
+    font: 13px "Georgia";
+    padding-top: 8px;
+    color: white;
+}
+#e1 { left: 555px;}
+#e2 { left: 660px;}
+#e3 { left: 765px;}
+#e4 { left: 870px;}
+#e5 { left: 975px;}
+
+.el:hover {
+    background-color: #76c38f;
+    border-radius: 10px;
+}

@@ -1,0 +1,13 @@
+.Header{
+    height: 600px;
+    background-color: #290000;
+}
+#LOGO{
+    position: absolute;
+    width: 185px;
+    height: 35px;
+    left: 120px;
+    top: 45px;
+    background-image: url("../../img/logo.png");
+    background-repeat: no-repeat;
+}

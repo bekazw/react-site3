@@ -1,0 +1,28 @@
+.LatestsWorks {
+    position: absolute;
+    height: 570px;
+    top: 1000px;
+    background-color: #660000;   
+    width: 100%;
+}
+#LW_caption{
+    position: absolute;
+    height: 50px;
+    background-color: #303030;
+    width: 255px;
+    left: 50%;
+    margin-left: -128px;
+    text-align: center;
+    font: 32px "Georgia";
+    padding-top: 15px;
+    color: #ffffff;
+    border-radius: 10px;
+    top: -55px;
+}   
+hr{
+    width: 80%;
+    color: #303030;
+    background-color: #303030;
+    height: 3px;
+    border: none;
+}
